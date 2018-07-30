@@ -1,0 +1,9 @@
+[submodule "abc"]
+	path = abc
+	url = https://github.com/berkeley-abc/abc.git
+[submodule "mockturtle"]
+	path = mockturtle
+	url = https://github.com/lsils/mockturtle.git
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/google/benchmark.git
